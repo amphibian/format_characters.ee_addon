@@ -13,7 +13,7 @@ class Format_characters {
 
     var $return_data;
     
-    function Format_characters($str = '')
+    function __construct($str = '')
     {
         if(empty($str))
         {

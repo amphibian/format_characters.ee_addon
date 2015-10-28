@@ -8,6 +8,5 @@ return array(
       'name' => 'Format Characters',
       'namespace' => 'Amphibian\FormatCharacters',
       'plugin.typography' => true,
-      'settings_exist' => false,
       'version' => '1.1'
 );
